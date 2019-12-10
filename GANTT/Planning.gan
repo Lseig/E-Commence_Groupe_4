@@ -33,6 +33,7 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
+        <task id="0" name="tâche_0" meeting="false" start="2019-12-09" duration="10" complete="0" expand="true"/>
     </tasks>
     <resources/>
     <allocations/>
