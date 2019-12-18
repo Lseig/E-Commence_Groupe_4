@@ -12,7 +12,7 @@ require('../sass/bases/_mixins.scss');
 require('../sass/bases/_fonts.scss');
 
 // Components
-require('../sass/components/forms.scss');
+//require('../sass/components/forms.scss');
 
 // Layout elements
 // require('../sass/layout-elements/footer.scss');
@@ -22,7 +22,7 @@ require('../sass/components/forms.scss');
 
 
 // Pages
-require('../sass/pages/home.scss');
+//require('../sass/pages/home.scss');
 
 // =============================================================================
 // Require dependencies
